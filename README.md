@@ -11,11 +11,11 @@ to the charging station. The system integrates line-following, QR code recogniti
 
 ## Robot 
 
-![Robot Image](./images/robot.jpg)
+![Robot Image](robot.jpeg)
 
 ## Map 
 
-![Track Image](./images/track.jpg)
+![Track Image](route.jpeg)
 
 ## Implemented Tasks
 
